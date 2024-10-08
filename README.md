@@ -1,6 +1,6 @@
 <div class = "repo" align = "center">         
       
-<a href = "#"> 
+<a href = "#">  
 <img src = "repo-data/repo-logo.jpg"  width="300" height="300">  
 </img>
  <p align="center"> 
